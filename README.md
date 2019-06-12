@@ -4,7 +4,7 @@
 
 ## Description
 
-Play classic two-player Reversi! Select one of three visual themes and enter the desired grid-size. Update the score, pass to the next player, or exit the game with the corresponding buttons.
+Play classic two-player Reversi! Select one of three visual themes and enter the desired grid-size, then press New Game. Update the score, pass to the next player, or exit the game as needed.
 
 ## Instructions
 
